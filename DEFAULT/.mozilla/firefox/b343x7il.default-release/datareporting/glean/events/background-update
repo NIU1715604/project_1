@@ -1,0 +1,5 @@
+{"timestamp":225084,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"9b55799b-d23a-41cf-a38b-65b060ccbc0c","experiment":"extensions-migration-in-import-wizard-116-rollout","branch":"control","experiment_type":"rollout"}}
+{"timestamp":238205,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":238205,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","feature":"accessibilityCache","reason":"invalid-feature"}}
+{"timestamp":313508,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":313534,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","feature":"accessibilityCache"}}
